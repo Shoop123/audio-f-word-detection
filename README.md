@@ -1,20 +1,20 @@
 # audio-f-word-detection
-#What is this project?
+# What is this project?
 This was a project that I worked on over a summer that was funded by the USRA NSERC award. The project was inspired by my struggle to play "clean" (swear-word free) music when I worked as a lifeguard. Since all my playlists were explicit, it was difficult to play music everyone would enjoy by curating it yourself - you almost always relied on other people’s playlists. My goal was to create an automatic swear word removal application that will be able to filter out music as its playing, reducing storage requirements for streaming services (by up to 50%) since they no longer need to store a clean and explicit version of each song, and allowing any playlist to work in a public, family-friendly environment.
 
 *Note: Contact me for the dataset in case you are interested in pursuing this research, and don't want to start from scratch. My email is danieldaniber@gmail.com*
 
-#Problem simplification
+# Problem simplification
 In order to make this problem even feasible for a 1-person team, in 1 summer, with minimal resources, I had to make some assumptions, and compromises. It turns out there are somewhat effective ways to already separate foreground audio (lyrics) from background audio (music), so I only focused on detecting swear words, rather than removing them. This is because if we can detect when they are said, we can use some existing tools to remove the foreground audio at that time, effectively removing the swear word.
 The second compromise was with which words I tried to detect. There are many different words that are considered inappropriate, and some authorities will have more, while others have less leniency about them. Since there are so many culprit words, and so many genres, songs, and artists that sounds vastly different, I decided to just focus on the f-word, a word that can hardly be disputed as a swear word. Additionally I only focused on a popular, mainstream artist with a large catalogue of music already out that has a pretty notoriously vulgar tongue - Lil Wayne. This will help narrow down the problem to just detecting when Lil Wayne says the f-word, and assuming this can be done reliably, it can be reproduced for all other swear words.
 
-#How far did I get?
+# How far did I get?
 Using some of the funds from the award, and some nifty Python scripts, I was able to create a dataset relatively quickly using Amazon Mechanical Turk. I won't detail the way I did it here, but you can contact me at me email above if you have any questions about this process. Using this dataset, I trained a few types of neural networks, and tested some SVMs too. In the end, the neural nets outperformed the SVMs, and the best ones were able to have a validation set accuracy of 69% at best, and about 60% on average. I used multiple dataset preprocessing techniques, and audio processing techniques to achieve this.
 
-#Why not a 90% validation set accuracy?
+# Why not a 90% validation set accuracy?
 Obviously, this model was not perfect - in fact, its not even useful at its current state. I think the biggest issue was that the training set simply did not span enough of the so called "f-word space" to properly converge on the pattern. This way my conclusion due to the severe overfitting that happen in most models that I tried, and was unfortunately unable to fix in time. Some networks achieved a 100% training set accuracy after almost 15-20 epochs, while their validation accuracy sometimes stagnated after 55-60%. This problem likely came from my limited time spent on this project - I have to get back to school! Other things that contributed were also my limited experience in the audio processing domain of machine learning, and relatively small dataset (about 200 songs). To improve this it would definitely help to increase the size of the dataset - a time consuming and costly endeavor (why it was hard for me to obtain a larger one), but also have someone with some experience working on audio processing help with the feature selection step.
 
-#How to get started
+# How to get started
 Reach me at danieldaniber@gmail.com for the dataset (I don't want to upload it to Github because its basically a bunch of Lil Wayne songs and I doubt his publisher would like that). See the below description of what each of the files do:
 1. helpers.py - general non-specific methods for loading the list of songs, and converting them to foreground only (removing background music to remove noise)
 2. vocal_separation.py - separates background audio from foreground audio - used in helpers.py
