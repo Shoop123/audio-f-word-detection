@@ -1,0 +1,2943 @@
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/1stkey/tracks">1st Key</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/1stkey/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: 1st Key" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: 1st Key" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/3peat/tracks">3 Peat</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/3peat/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: 3 Peat" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: 3 Peat" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/500degreez/tracks">500 Degreez</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/500degreez/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: 500 Degreez" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: 500 Degreez" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/6foot7foot/tracks">6 Foot 7 Foot</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/6foot7foot/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: 6 Foot 7 Foot" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: 6 Foot 7 Foot" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/milli/tracks">A Milli</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/milli/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: A Milli" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: A Milli" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/abortion/tracks">Abortion</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/abortion/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Abortion" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Abortion" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/aboutallthat/tracks">About All That</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/aboutallthat/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: About All That" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: About All That" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/actaa/tracks">Act A A**</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/actaa/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Act A A**" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/aintthatabih/tracks">Ain't That A Bi**h</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/aintthatabih/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Ain&amp;#39;t That A Bi**h" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Ain&amp;#39;t That A Bi**h" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/aintworriedboutsht/tracks">Ain't Worried Bout Sh*t</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/aintworriedboutsht/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Ain&amp;#39;t Worried Bout Sh*t" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Ain&amp;#39;t Worried Bout Sh*t" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/americanstar/tracks">American Star</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/americanstar/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: American Star" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: American Star" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/armygunz/tracks">Army Gunz</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/armygunz/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Army Gunz" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Army Gunz" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/backtoyou/tracks">Back ToYou</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/backtoyou/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Back ToYou" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Back ToYou" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/beattheshit/tracks">Beat the Shit</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/beattheshit/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Beat the Shit" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Beat the Shit" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/beef/tracks">Beef</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/beef/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Beef" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/believethat/tracks">Believe That</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/believethat/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Believe That" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Believe That" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/bestrapperalive/tracks">Best Rapper Alive</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/bestrapperalive/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Best Rapper Alive" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Best Rapper Alive" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/bigtiggerliveontheradio/tracks">Big Tigger Live On The Radio</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/bigtiggerliveontheradio/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Big Tigger Live On The Radio" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Big Tigger Live On The Radio" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/billgates/tracks">Bill Gates</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/billgates/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Bill Gates" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Bill Gates" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/bitchesloveme/tracks">Bitches Love Me</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/bitchesloveme/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Bitches Love Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/biznite/tracks">Biznite</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/biznite/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Biznite" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/bloodline/tracks">Bloodline</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/bloodline/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Bloodline" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Bloodline" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/bluntblowin/tracks">Blunt Blowin</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/bluntblowin/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Blunt Blowin" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Blunt Blowin" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/bmjr/tracks">BM J.R.</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/bmjr/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: BM J.R." src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: BM J.R." src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/breakmeoff/tracks">Break Me Off</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/breakmeoff/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Break Me Off" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/bringitback/tracks">Bring It Back</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/bringitback/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Bring It Back" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Bring It Back" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/calidro/tracks">Cali Dro</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/calidro/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Cali Dro" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Cali Dro" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/carterii/tracks">Carter II</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/carterii/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Carter II" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Carter II" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/cashmoneymillionaires/tracks">Cash Money Millionaires</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/cashmoneymillionaires/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Cash Money Millionaires" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Cash Money Millionaires" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/comeon/tracks">Come On</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/comeon/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Come On" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Come On" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/comfortable/tracks">Comfortable</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/comfortable/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Comfortable" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Comfortable" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/curtains/tracks">Curtains</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/curtains/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Curtains" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Curtains" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/dadada/tracks">Da Da Da</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/dadada/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Da Da Da" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Da Da Da" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/daysanddays/tracks">Days and Days</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/daysanddays/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Days and Days" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Days and Days" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/dontdie/tracks">Don't Die</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/dontdie/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Don&amp;#39;t Die" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Don&amp;#39;t Die" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/dontgetit/tracks">Dontgetit</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/dontgetit/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Dontgetit" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Dontgetit" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/drcarter/tracks">Dr. Carter</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/drcarter/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Dr. Carter" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Dr. Carter" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/dropitlikeitshot/tracks">Drop It Like It's Hot</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/dropitlikeitshot/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Drop It Like It&amp;#39;s Hot" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Drop It Like It&amp;#39;s Hot" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/droptheworld/tracks">Drop The World</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/droptheworld/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Drop The World" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Drop The World" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/earthquake/tracks">Earthquake</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/earthquake/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Earthquake" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Earthquake" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/enemyturf/tracks">Enemy Turf</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/enemyturf/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Enemy Turf" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Enemy Turf" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/everything/tracks">Everything</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/everything/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Everything" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/fthaworld/tracks">F*** Tha World</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/fthaworld/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: F*** Tha World" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: F*** Tha World" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/fyou/tracks">F*** You</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/fyou/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: F*** You" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/fkwitmenow/tracks">F**k Wit Me Now</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/fkwitmenow/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: F**k Wit Me Now" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/familyrules/tracks">Family Rules</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/familyrules/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Family Rules" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Family Rules" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/fireman/tracks">Fireman</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/fireman/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Fireman" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Fireman" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/flyin/tracks">Fly In</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/flyin/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Fly In" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Fly In" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/flyout/tracks">Fly Out</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/flyout/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Fly Out" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Fly Out" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/flytalkin/tracks">Fly Talkin'</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/flytalkin/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Fly Talkin&amp;#39;" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Fly Talkin&amp;#39;" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/fosheezy/tracks">Fo Sheezy</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/fosheezy/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Fo Sheezy" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Fo Sheezy" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/gangstaandpimps/tracks">Gangsta And Pimps</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/gangstaandpimps/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Gangsta And Pimps" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Gangsta And Pimps" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/gangstas/tracks">Gangsta S***</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/gangstas/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Gangsta S***" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/getalife/tracks">Get A Life</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/getalife/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Get A Life" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Get A Life" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/getdown/tracks">Get Down</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/getdown/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Get Down" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Get Down" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/getoffthecorner/tracks">Get Off The Corner</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/getoffthecorner/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Get Off The Corner" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/getover/tracks">Get Over</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/getover/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Get Over" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Get Over" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/getthatdough/tracks">Get That Dough</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/getthatdough/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Get That Dough" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Get That Dough" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/getthatmoney/tracks">Get That Money</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/getthatmoney/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Get That Money" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Get That Money" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/godj/tracks">Go DJ</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/godj/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Go DJ" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Go DJ" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/gohard/tracks">Go Hard</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/gohard/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Go Hard" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Go Hard" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/godblessamerika/tracks">God Bless Amerika</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/godblessamerika/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: God Bless Amerika" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: God Bless Amerika" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/gonorrhea/tracks">Gonorrhea</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/gonorrhea/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Gonorrhea" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Gonorrhea" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/gossip/tracks">Gossip</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/gossip/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Gossip" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Gossip" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/gotmoney/tracks">Got Money</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/gotmoney/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Got Money" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Got Money" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/groundzero/tracks">Ground Zero</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/groundzero/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Ground Zero" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Ground Zero" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/grownman/tracks">Grown Man</a> 
+		 ( 3 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/grownman/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Grown Man" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Grown Man" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/gunwalk/tracks">Gunwalk</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/gunwalk/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Gunwalk" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Gunwalk" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/hello/tracks">Hello</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/hello/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Hello" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Hello" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/high/tracks">High</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/high/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: High" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: High" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/hitemup/tracks">Hit Em Up</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/hitemup/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Hit Em Up" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Hit Em Up" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/hituup/tracks">Hit U Up</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/hituup/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Hit U Up" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/hoes/tracks">Hoes</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/hoes/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Hoes" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Hoes" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/holdup/tracks">Hold Up</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/holdup/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Hold Up" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Hold Up" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/hotrevolver/tracks">Hot Revolver</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/hotrevolver/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Hot Revolver" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Hot Revolver" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/hottolove/tracks">Hot To Love</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/hottolove/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Hot To Love" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Hot To Love" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/howtohate/tracks">How To Hate</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/howtohate/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: How To Hate" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: How To Hate" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/hustlermusik/tracks">Hustler Musik</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/hustlermusik/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Hustler Musik" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Hustler Musik" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/iamnotahumanbeing/tracks">I Am Not A Human Being</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/iamnotahumanbeing/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: I Am Not A Human Being" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: I Am Not A Human Being" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/idontlikethelookofit/tracks">I Don't Like The Look Of It</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/idontlikethelookofit/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: I Don&amp;#39;t Like The Look Of It" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: I Don&amp;#39;t Like The Look Of It" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/iliketheview/tracks">I Like The View</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/iliketheview/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: I Like The View" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: I Like The View" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/imissmydawgs/tracks">I Miss My Dawgs</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/imissmydawgs/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: I Miss My Dawgs" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: I Miss My Dawgs" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/imadboy/tracks">I'm a Dboy</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/imadboy/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: I&amp;#39;m a Dboy" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: I&amp;#39;m a Dboy" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/immeexplicitalbumversion/tracks">I'm Me (Explicit Album Version)</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/immeexplicitalbumversion/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: I&amp;#39;m Me (Explicit Album Version)" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: I&amp;#39;m Me (Explicit Album Version)" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/imsingle/tracks">I'm Single</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/imsingle/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: I&amp;#39;m Single" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: I&amp;#39;m Single" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/ianahb/tracks">IANAHB</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/ianahb/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: IANAHB" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: IANAHB" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/inside/tracks">Inside</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/inside/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Inside" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Inside" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/interlude/tracks">Interlude</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/interlude/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Interlude" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Interlude" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/intro/tracks">Intro</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/intro/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Intro" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Intro" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/introwatchthempeople/tracks">Intro (Watch Them People)</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/introwatchthempeople/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Intro (Watch Them People)" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/itsgood/tracks">It's Good</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/itsgood/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: It&amp;#39;s Good" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: It&amp;#39;s Good" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/john/tracks">John</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/john/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: John" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: John" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/jumpjiggy/tracks">Jump Jiggy</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/jumpjiggy/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Jump Jiggy" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/kisha/tracks">Kisha</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/kisha/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Kisha" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Kisha" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/knockout/tracks">Knockout</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/knockout/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Knockout" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Knockout" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/knowwhatimdoin/tracks">Know What I'm Doin'</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/knowwhatimdoin/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Know What I&amp;#39;m Doin&amp;#39;" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Know What I&amp;#39;m Doin&amp;#39;" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/kushexplicitalbumversion/tracks">Kush (Explicit Album Version)</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/kushexplicitalbumversion/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Kush (Explicit Album Version)" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Kush (Explicit Album Version)" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/lala/tracks">LA LA</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/lala/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: LA LA" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: LA LA" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/layitdown/tracks">Lay It Down</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/layitdown/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Lay It Down" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Lay It Down" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/leathersosoft/tracks">Leather So Soft</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/leathersosoft/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Leather So Soft" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Leather So Soft" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/letthebeatbuild/tracks">Let The Beat Build</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/letthebeatbuild/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Let The Beat Build" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Let The Beat Build" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/letsgo/tracks">Let's Go</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/letsgo/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Let&amp;#39;s Go" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/lightsoff/tracks">Lights Off</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/lightsoff/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Lights Off" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Lights Off" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/likefatherlikeson/tracks">Like Father Like Son</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/likefatherlikeson/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Like Father Like Son" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Like Father Like Son" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/lilone/tracks">Lil One</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/lilone/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Lil One" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/lockandload/tracks">Lock &amp; Load</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/lockandload/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Lock &amp;amp; Load" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Lock &amp;amp; Load" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/lollipop/tracks">Lollipop</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/lollipop/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Lollipop" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Lollipop" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/lookatme/tracks">Look At Me</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/lookatme/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Look At Me" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Look At Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/loudpipes/tracks">Loud Pipes</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/loudpipes/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Loud Pipes" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Loud Pipes" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/lovemeorhatemeexplicitalbumversion/tracks">Love Me or Hate Me (Explicit Album Version)</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/lovemeorhatemeexplicitalbumversion/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Love Me or Hate Me (Explicit Album Version)" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Love Me or Hate Me (Explicit Album Version)" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/lovely/tracks">Lovely</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/lovely/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Lovely" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Lovely" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/loyalty/tracks">Loyalty</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/loyalty/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Loyalty" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Loyalty" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/megaman/tracks">MegaMan</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/megaman/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: MegaMan" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: MegaMan" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/mirror/tracks">Mirror</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/mirror/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Mirror" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Mirror" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/mofire/tracks">Mo Fire</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/mofire/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Mo Fire" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Mo Fire" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/moneyinmind/tracks">Money In Mind</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/moneyinmind/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Money In Mind" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/moneyonmymind/tracks">Money on My Mind</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/moneyonmymind/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Money on My Mind" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Money on My Mind" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/mrcarter/tracks">Mr. Carter</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/mrcarter/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Mr. Carter" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Mr. Carter" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/mrsofficer/tracks">Mrs. Officer</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/mrsofficer/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Mrs. Officer" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Mrs. Officer" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/myhomiesstill/tracks">My Homies Still</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/myhomiesstill/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: My Homies Still" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: My Homies Still" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/nightmaresofthebottom/tracks">Nightmares of the Bottom</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/nightmaresofthebottom/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Nightmares of the Bottom" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Nightmares of the Bottom" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/nomore/tracks">No More</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/nomore/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: No More" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: No More" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/noworries/tracks">No Worries</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/noworries/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: No Worries" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: No Worries" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/notlikeme/tracks">Not Like Me</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/notlikeme/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Not Like Me" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Not Like Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/ohno/tracks">Oh No</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/ohno/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Oh No" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Oh No" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/onfire/tracks">On Fire</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/onfire/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: On Fire" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: On Fire" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/onmy/tracks">On My</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/onmy/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: On My" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: On My" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/onmyown/tracks">On My Own</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/onmyown/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: On My Own" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: On My Own" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/onthablockno1/tracks">On Tha Block No.1</a> 
+		 ( 3 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/onthablockno1/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: On Tha Block No.1" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/ontheblock1/tracks">On The Block #1</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/ontheblock1/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: On The Block #1" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: On The Block #1" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/ontheblockno2/tracks">On the Block No. 2</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/ontheblockno2/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: On the Block No. 2" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: On the Block No. 2" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/onthegrind/tracks">On The Grind</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/onthegrind/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: On The Grind" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/onewaytrip/tracks">One Way Trip</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/onewaytrip/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: One Way Trip" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: One Way Trip" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/onlyway/tracks">Only Way</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/onlyway/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Only Way" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Only Way" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/outthepound/tracks">Out The Pound</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/outthepound/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Out The Pound" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Out The Pound" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/outro/tracks">Outro</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/outro/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Outro" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Outro" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/overherehustlin/tracks">Over Here Hustlin'</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/overherehustlin/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Over Here Hustlin&amp;#39;" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Over Here Hustlin&amp;#39;" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/paradice/tracks">Paradice</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/paradice/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Paradice" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Paradice" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/phonehome/tracks">Phone Home</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/phonehome/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Phone Home" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Phone Home" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/playnwithfire/tracks">Playn With Fire</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/playnwithfire/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Playn With Fire" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/popular/tracks">Popular</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/popular/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Popular" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Popular" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/presidentcarter/tracks">President Carter</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/presidentcarter/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: President Carter" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: President Carter" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/promqueen/tracks">Prom Queen</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/promqueen/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Prom Queen" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Prom Queen" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/protector/tracks">Protector</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/protector/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Protector" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Protector" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/pussymonster/tracks">Pussy Monster</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/pussymonster/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Pussy Monster" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Pussy Monster" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/realized/tracks">Realized</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/realized/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Realized" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/receipt/tracks">Receipt</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/receipt/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Receipt" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Receipt" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/rememberme/tracks">Remember Me</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/rememberme/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Remember Me" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Remember Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/respect/tracks">Respect</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/respect/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Respect" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Respect" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/richasfuck/tracks">Rich As Fuck</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/richasfuck/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Rich As Fuck" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Rich As Fuck" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/rightaboveit/tracks">Right Above It</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/rightaboveit/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Right Above It" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Right Above It" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/robniceliveontheradio/tracks">Rob Nice Live On The Radio</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/robniceliveontheradio/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Rob Nice Live On The Radio" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Rob Nice Live On The Radio" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/romance/tracks">Romance</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/romance/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Romance" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/runnin/tracks">Runnin</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/runnin/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Runnin" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Runnin" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/shewill/tracks">She Will</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/shewill/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: She Will" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: She Will" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/shine/tracks">Shine</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/shine/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Shine" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/shootmedown/tracks">Shoot Me Down</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/shootmedown/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Shoot Me Down" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Shoot Me Down" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/shooter/tracks">Shooter</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/shooter/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Shooter" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Shooter" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/skit/tracks">Skit</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/skit/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Skit" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/snitch/tracks">Snitch</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/snitch/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Snitch" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Snitch" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/sospecial/tracks">So Special</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/sospecial/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: So Special" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: So Special" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/stuntinlikemydaddy/tracks">Stuntin' Like My Daddy</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/stuntinlikemydaddy/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Stuntin&amp;#39; Like My Daddy" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Stuntin&amp;#39; Like My Daddy" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/talkinaboutitexplicitalbumversion/tracks">Talkin About It (Explicit Album Version)</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/talkinaboutitexplicitalbumversion/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Talkin About It (Explicit Album Version)" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Talkin About It (Explicit Album Version)" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/thablockishot/tracks">Tha Block Is Hot</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/thablockishot/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Tha Block Is Hot" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Tha Block Is Hot" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/thablues/tracks">Tha Blues</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/thablues/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Tha Blues" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/thaheat/tracks">Tha Heat</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/thaheat/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Tha Heat" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Tha Heat" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/thamobb/tracks">Tha Mobb</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/thamobb/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Tha Mobb" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Tha Mobb" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/thataintme/tracks">That Ain't Me</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/thataintme/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: That Ain&amp;#39;t Me" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: That Ain&amp;#39;t Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/priceiswrong/tracks">The Price Is Wrong</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/priceiswrong/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: The Price Is Wrong" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: The Price Is Wrong" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/thisisthecarter/tracks">This Is the Carter</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/thisisthecarter/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: This Is the Carter" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: This Is the Carter" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/tiemyhands/tracks">Tie My Hands</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/tiemyhands/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Tie My Hands" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Tie My Hands" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/triggerfinger/tracks">Trigger Finger</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/triggerfinger/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Trigger Finger" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Trigger Finger" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/trippy/tracks">Trippy</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/trippy/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Trippy" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Trippy" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/twoshots/tracks">Two Shots</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/twoshots/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Two Shots" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Two Shots" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/uptome/tracks">Up To Me</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/uptome/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Up To Me" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Up To Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/walkin/tracks">Walk In</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/walkin/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Walk In" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Walk In" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/walkout/tracks">Walk Out</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/walkout/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Walk Out" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Walk Out" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/watchawannado/tracks">Watcha Wanna Do</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/watchawannado/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Watcha Wanna Do" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Watcha Wanna Do" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/wattsscratch/tracks">Watts Scratch</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/wattsscratch/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Watts Scratch" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Watts Scratch" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/wayoflife/tracks">Way Of Life</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/wayoflife/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Way Of Life" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Way Of Life" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/wedont/tracks">We Don't</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/wedont/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: We Don&amp;#39;t" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: We Don&amp;#39;t" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/weezybaby/tracks">Weezy Baby</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/weezybaby/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Weezy Baby" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Weezy Baby" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/whatdoeslifemeantome/tracks">What Does Life Mean To Me</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/whatdoeslifemeantome/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: What Does Life Mean To Me" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: What Does Life Mean To Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/whatswrongwiththem/tracks">What's Wrong With Them</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/whatswrongwiththem/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: What&amp;#39;s Wrong With Them" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: What&amp;#39;s Wrong With Them" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/whereyouat/tracks">Where You At</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/whereyouat/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Where You At" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Where You At" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/whowanna/tracks">Who Wanna</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/whowanna/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Who Wanna" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Who Wanna" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/wishyouwould/tracks">Wish You Would</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/wishyouwould/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Wish You Would" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/withyou/tracks">With You</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/withyou/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: With You" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: With You" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/worryme/tracks">Worry Me</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/worryme/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Worry Me" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Worry Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/wowzerz/tracks">Wowzerz</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/wowzerz/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Wowzerz" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Wowzerz" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/ymbanger/tracks">YM Banger</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/ymbanger/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: YM Banger" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: YM Banger" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/ymsalute/tracks">YM Salute</a> 
+		 ( 2 ) 
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/ymsalute/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: YM Salute" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: YM Salute" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/youaintgotnuthin/tracks">You Ain't Got Nuthin</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/youaintgotnuthin/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: You Ain&amp;#39;t Got Nuthin" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: You Ain&amp;#39;t Got Nuthin" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/youaintgotnuthinonme/tracks">You Ain't Got Nuthin On Me</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/youaintgotnuthinonme/tracks" rel="nofollow">
+
+		<img alt="Albums with Lil&amp;#39; Wayne Song: You Ain&amp;#39;t Got Nuthin On Me" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/youaintknow/tracks">You Ain't Know</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/youaintknow/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: You Ain&amp;#39;t Know" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: You Ain&amp;#39;t Know" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/youwantwar/tracks">You Want War</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/youwantwar/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: You Want War" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: You Want War" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-even">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/youngplaya/tracks">Young Playa</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/youngplaya/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Young Playa" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Young Playa" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>	
+
+<tr class="songitem-odd">   
+	<td id="songname">
+		<a href="http://www.song-list.net/lilwayne/youngnblues/tracks">Young'n Blues</a> 
+		  
+	</td>
+
+	<td id="songlibs">
+		<a href="http://www.song-list.net/lilwayne/youngnblues/tracks" rel="nofollow">
+
+			<img alt="Albums with Lil&amp;#39; Wayne Song: Young&amp;#39;n Blues" src="/assets/itunes3a-4002ed6b9e62539b10deecb03c42e760292ee260bed7acf003bd749ebeedaca2.gif">
+		<img alt="Albums with Lil&amp;#39; Wayne Song: Young&amp;#39;n Blues" src="/assets/amazon-84862dc4b72656fa38521da2c5175e2a5f8703bd060a15a5c9374269002ae8b1.gif">
+		</a>
+	</td>
+</tr>
