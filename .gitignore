@@ -1,5 +1,7 @@
 records.txt
 music_server.pem
+audio_links.csv
+create_mturk_csv.py
 song_downloader/songs/
 env/
 __pycache__/
