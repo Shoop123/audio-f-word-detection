@@ -1,4 +1,5 @@
 records.txt
+music_server.pem
 song_downloader/songs/
 env/
 __pycache__/
